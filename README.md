@@ -14,5 +14,3 @@ This project was developed as a thesis for the University of Piraeus, earning a 
 ![image](https://github.com/GeorgeLiaros/FitMeApp-Project/assets/47497244/6c09c2d9-6788-44dc-8a0d-ad18c0a501b5)
 ![image](https://github.com/GeorgeLiaros/FitMeApp-Project/assets/47497244/455e7922-28bc-4738-a76d-0f6d43eeb48a)
 ![image](https://github.com/GeorgeLiaros/FitMeApp-Project/assets/47497244/a0f41f0e-bc30-44db-adcf-0438b95962c4)
-
-
